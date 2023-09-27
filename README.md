@@ -42,4 +42,5 @@ This project includes various components aiming to address challenges and tasks 
 
 ### brain_module.py 
 brain_modulerepresents a more advanced task, reconstructing the numerical field data mentioned above into image data.
-![brain segment](4.png)
+
+![brain segment](temp/processed.png)
